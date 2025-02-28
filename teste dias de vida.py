@@ -1,0 +1,8 @@
+dn = int(input("dia de nascimento"))
+mn = int(input("mês de nascimento"))
+an = int(input("ano de nascimento"))
+da = int(input("dia"))
+ma = int(input("mês"))
+aa = int(input("ano"))
+diasdevida = (aa-an)*365.25+(ma-mn)*30.4+ (da-dn)
+print (diasdevida)
