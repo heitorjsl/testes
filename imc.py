@@ -1,0 +1,8 @@
+p=float (input("peso em kg"))
+a=float (input("altura em metro"))
+imc=p/(a**2)
+if imc >=18.5: print("magro")
+elif imc>=25: print("normal")
+elif imc>=30: print("sobrepeso")
+elif imc>=40: print("obesidade")
+else: print("obesidade aguda")
