@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class ex03 {
+public class ex2203_3 {
     public static void main(String[] args) {
         double a=  Integer.parseInt(JOptionPane.showInputDialog("Digite numero"));
         double b=  Integer.parseInt(JOptionPane.showInputDialog("Digite numero"));
