@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ex01 {
+public class ex2203_1 {
     public static void main(String[] args) {
         double n=  Integer.parseInt(JOptionPane.showInputDialog("Digite numero"));
     {}
