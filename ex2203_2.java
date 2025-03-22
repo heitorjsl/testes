@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class ex2203_4 {
+public class ex2203_2 {
 
     public static void main(String[] args) {
         double a, b, c,d,y1,y2;
